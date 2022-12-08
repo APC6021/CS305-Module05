@@ -11,3 +11,5 @@ email, or any other method with the authors of this repository before making a c
    Pull Request would represent.
 4. Merge the Pull Request AFTER you have the clear from two other developers, or if you 
    do not have permission to do that, you may request the second reviewer to merge it for you.
+   
+   :::)))))))
