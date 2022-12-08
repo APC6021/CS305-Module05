@@ -43,6 +43,4 @@ PlanItOut.
 * **Terrell Hayward** - *Initial Work* - [tjh488](https://github.com/tjh488)
 ## License
 
-This project is licensed under the GNU GPLv3 License - see the [LICENSE.md](https://github.com/Carhn/PlanItOut/blob/Dev/LICENSE.md) file for details
-
-:) hello
+This project is licensed under the GNU GPLv3 License - see the [LICENSE.md](https://github.com/Carhn/PlanItOut/blob/Dev/LICENSE.md) file for details something
