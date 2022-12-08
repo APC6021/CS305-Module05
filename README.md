@@ -1,6 +1,9 @@
 # PlanItOut
 Group 8's Team Project for CS386 (M. Gerosa) 
 
+## Subheading
+
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -39,7 +42,6 @@ PlanItOut.
 * **Payton Cox** - *Initial Work* - [paytonious](https://github.com/paytonious)
 * **Terrell Hayward** - *Initial Work* - [tjh488](https://github.com/tjh488)
 ## License
-
-This project is licensed under the GNU GPLv3 License - see the [LICENSE.md](https://github.com/Carhn/PlanItOut/blob/Dev/LICENSE.md) file for details
+This project is licensed under the GNU GPLv3 License - see the [LICENSE.md](https://github.com/Carhn/PlanItOut/blob/Dev/LICENSE.md) file for details something
 
 :) Hello
