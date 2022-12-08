@@ -1,7 +1,7 @@
 # PlanItOut
 Group 8's Team Project for CS386 (M. Gerosa) 
 
-## Subheading
+## Subheading goes here hihihihi
 
 
 ## Getting Started
